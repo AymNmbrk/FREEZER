@@ -1,3 +1,3 @@
 # FREEZER
-Ptojet freezer
+Projet freezer
 aymane/waleed
